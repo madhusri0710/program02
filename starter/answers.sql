@@ -7,3 +7,4 @@ CREATE TABLE Student (
 CREATE TABLE Department (
     DeptID INT PRIMARY KEY
 );
+
